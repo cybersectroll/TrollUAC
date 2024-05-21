@@ -11,7 +11,7 @@ Because I was bored of registry / DLL / com UAC bypasses
 The code really serves as boilerplate to abuse the uiAcess feature in convenient c# where you can easily replace the GUI automation code/logic to your liking
 
 # Credits (rewrite of project) 
-c# port of https://www.tiraniddo.dev/2019/02/accessing-access-tokens-for-uiaccess.html with some flavouring.\
+c# port of https://www.tiraniddo.dev/2019/02/accessing-access-tokens-for-uiaccess.html with some troll flavouring.\
 Refer to article for full explanation, technique is 5 years old but still works :)
        
 # Compiling  
