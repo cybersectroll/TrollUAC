@@ -1,5 +1,5 @@
 # TrollUAC
-- .NET library that serves as a UAC bypass for x64
+- .NET library that serves as a boilerplate to bypass UAC x64 using uiAccess
 - Any* process with the uiAccess flag enabled can "Send Keystrokes" to high integrity processes even from medium integrity
 - We steal the token of On Screen Keyboard (uiAccess enabled) to spawn a new process that does GUI automation
 - The GUI automation simply sends keystrokes to taskmgr (auto elevate) to spawn our new desired process in high integrity
