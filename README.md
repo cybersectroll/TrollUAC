@@ -11,8 +11,7 @@
 Because I was bored of registry / DLL / com UAC bypasses
 
 # Benefits
-The code really serves as boilerplate to abuse the uiAcess feature in convenient c# where you can easily replace the GUI automation code/logic to your liking.\
-Because the library is so simple, you have granular and absolute control over your actions as opposed to other libraries out there. (i.e awareness of what your code is actually doing)
+The code really serves as boilerplate to abuse the uiAcess feature in convenient c# where you can easily replace the GUI automation code/logic to your liking. Because the library is so simple, you have granular and absolute control over your actions as opposed to other libraries out there. (i.e awareness of what your code is actually doing)
 
 # Credits (rewrite of project) 
 c# port of https://www.tiraniddo.dev/2019/02/accessing-access-tokens-for-uiaccess.html with some troll flavouring.\
